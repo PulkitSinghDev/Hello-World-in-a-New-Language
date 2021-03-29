@@ -1,1 +1,2 @@
-# Hello-World-in-a-New-Language
+# Hello World Program in javascript - LHD Share
+* code:- [index.js](index.js)
